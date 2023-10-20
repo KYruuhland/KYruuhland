@@ -1,8 +1,8 @@
 👋 Hi, I’m Orlando Gomes, a student at the Federal University of São Paulo, currently pursuing a Bachelor's degree in Chemical Engineering.
 My specialization lies in the domain of neural networks, data analysis, and machine learning, particularly as they
-apply to alcoholic fermentation chemical processes and pharmacological wastewater treatment.
+apply to alcoholic fermentation chemical processes and pharmacological wastewater treatment :wink:.
 
-Experience & Achievements:
+Experience & Achievements:book::
 
 - Undertaken university projects involving neural networks, data analysis, and data manipulation.
 - Have national and international articles in the process of being published.
@@ -10,7 +10,7 @@ Experience & Achievements:
 - Possess a robust understanding of algorithms and computational methods.
 - Broad technological comprehension.
   
-Skills & Proficiencies:
+Skills & Proficiencies:bookmark_tabs:: 
 
 - Software & Programming Languages: Python, C, R, Fortran, MATLAB, Scilab, Spyder
 - Technologies: Machine Learning, Artificial Intelligence
