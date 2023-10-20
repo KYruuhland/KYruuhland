@@ -4,16 +4,17 @@ apply to alcoholic fermentation chemical processes and pharmacological wastewate
 
 Experience & Achievements:
 
-Undertaken university projects involving neural networks, data analysis, and data manipulation.
-Have national and international articles in the process of being published.
-Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena, and Calculus.
-Possess a robust understanding of algorithms and computational methods.
-Broad technological comprehension.
+- Undertaken university projects involving neural networks, data analysis, and data manipulation.
+- Have national and international articles in the process of being published.
+- Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena, and Calculus.
+- Possess a robust understanding of algorithms and computational methods.
+- Broad technological comprehension.
+  
 Skills & Proficiencies:
 
-Software & Programming Languages: Python, C, R, Fortran, MATLAB, Scilab, Spyder
-Technologies: Machine Learning, Artificial Intelligence
-Data Analysis: Proficient in data analysis and interpretation
-Tools: Microsoft Office
-Soft Skills: Communication, Leadership, Initiative
-General Tech: Comprehensive knowledge of various software and hardware.
+- Software & Programming Languages: Python, C, R, Fortran, MATLAB, Scilab, Spyder
+- Technologies: Machine Learning, Artificial Intelligence
+- Data Analysis: Proficient in data analysis and interpretation
+- Tools: Microsoft Office
+- Soft Skills: Communication, Leadership, Initiative
+- General Tech: Comprehensive knowledge of various software and hardware.
