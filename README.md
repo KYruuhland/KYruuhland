@@ -12,7 +12,7 @@ Experience & Achievements:book::
   
 Skills & Proficiencies:bookmark_tabs:: 
 
-- Software & Programming Languages: Python, C, R, Fortran, MATLAB, Scilab, Spyder
+- Software & Programming Languages: Python, C, R, Fortran, Java, Pearl, ASPEN, Surfer, CADM, MATLAB, Scilab, Spyder
 - Technologies: Machine Learning, Artificial Intelligence
 - Data Analysis: Proficient in data analysis and interpretation
 - Tools: Microsoft Office
